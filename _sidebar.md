@@ -3,3 +3,5 @@
   - [Code Review](prompts/code-review.md)
   - [AWS](prompts/aws.md)
   - [General](prompts/general.md)
+  - [Advanced Technical Mastery](prompts/advanced-technical-mastery.md)
+  - [Tech Blog Generation](prompts/tech-blog-generation.md)
