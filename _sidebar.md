@@ -5,3 +5,5 @@
   - [General](prompts/general.md)
   - [Advanced Technical Mastery](prompts/advanced-technical-mastery.md)
   - [Tech Blog Generation](prompts/tech-blog-generation.md)
+- **AWS Resources**
+  - [System Design Trade-offs and Guidelines](pages/aws/1.%20System%20Design%20Trade-offs%20and%20Guidelines%20_%20System%20Design%20on%20AWS.html ':ignore')

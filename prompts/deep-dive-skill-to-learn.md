@@ -13,21 +13,10 @@ First of first, don't make up answer. just say No if you don't know. But you can
    - Deep explanation of the methodology
    - Extract generalizable  knowledge
 
-2. **Reverse Engineering Mindset**
-   - How to derive this solution?
-   - What's the thought process?
-   - What universal problem-solving techniques apply?
+2. **deep dive and expand**
+ - Not only answer this question, but take this as a start point to deep dive and expand knowlegge, so that I can learn more start here.
 
-3. **Essential Analysis**
-   - ✅ **Problem Modeling** + Solution Selection + Trade-off Analysis
-   - 🔍 Corner case identification (no missing cases)
-   - 📊 Information Directionality (信息单向性)
-   - 🧹 Eliminate Redundant Checks (冗余消除)
-   - 🔄 Inversion & Symmetry Breaking (视角的逆转)
-
----
-
-### 3. Meta-Analysis: Universal Lessons
+3. Meta-Analysis: Universal Lessons
 - What general technique does this teach?
 - Where else applies this pattern?
 
