@@ -192,3 +192,7 @@ Add specific problems following this template to build:
 - Prevent problems, not just solve them
 - Build patterns, not just solutions
 - Connect disciplines, not just memorize techniques
+
+==============================
+Below is my input
+=====================
