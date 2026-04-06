@@ -34,4 +34,4 @@ A collection of reusable AI prompts for software engineering, DevOps, and contra
 - [21. Designing an Online Stock-Trading Platform](pages/aws/21.%20Designing%20an%20Online%20Stock-Trading%20Platform%20_%20System%20Design%20on%20AWS.html ':ignore')
 
 
-https://toddy-prompt-vault.phray-zhang.workers.dev/#/
+https://toddy-prompphrat-vault.phray-zhang.workers.dev/#/
