@@ -2466,3 +2466,7 @@ p.figure img {
 .ucvMode-black #book-content #sbo-rt-content .readable-text {
     color: #fff;
 }
+
+#vsc-book-reader #book-content {
+    margin-bottom: 0 !important;
+}
