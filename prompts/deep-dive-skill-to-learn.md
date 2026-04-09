@@ -42,6 +42,10 @@ First of first, don't make up answer. just say No if you don't know. But you can
 - **孟子的知人论世**: Understand individuals through their context
 - **自由能** (Free Energy Principle): Minimize surprises, maximize efficiency
 
+### include key ideas from below books
+- 罗伯特西奥迪尼的《影响力》。
+- 科维的 （高效能人士的七个习惯）
+
 ---
 
 ---
