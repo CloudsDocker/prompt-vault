@@ -56,3 +56,10 @@
 .sfdx/typings/lwc/sobjects/Report.d.ts
 .sfdx/typings/lwc/sobjects/Task.d.ts
 .sfdx/typings/lwc/sobjects/User.d.ts
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
