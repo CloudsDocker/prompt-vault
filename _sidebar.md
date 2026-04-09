@@ -17,6 +17,7 @@
   - [6. Communication Networks and Protocols](pages/aws/md/6.%20Communication%20Networks%20and%20Protocols.md)
   - [7. Containerization, Orchestration, and Deployments](pages/aws/md/7.%20Containerization%2C%20Orchestration%2C%20and%20Deployments.md)
   - [8. Architectural Designs and Patterns](pages/aws/md/8.%20Architectural%20Designs%20and%20Patterns.md)
+  - [9. AWS Network Services](pages/aws/md/9.%20AWS%20Network%20Services.md)
   - [10. AWS Storage Services](pages/aws/md/10.%20AWS%20Storage%20Services.md)
   - [11. AWS Compute Services](pages/aws/md/11.%20AWS%20Compute%20Services.md)
   - [12. AWS Messaging, Orchestration, Monitoring, and Access Management](pages/aws/md/12.%20AWS%20Messaging%2C%20Orchestration%2C%20Monitoring%2C%20and%20Access%20Management%20Services.md)
