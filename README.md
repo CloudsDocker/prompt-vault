@@ -9,3 +9,55 @@ A collection of reusable AI prompts for software engineering, DevOps, and contra
 - [General](prompts/general.md)
 - [Advanced Technical Mastery](prompts/advanced-technical-mastery.md) - Principal Developer interview prep, error analysis, and problem-solving frameworks
 - [Tech Blog Generation](prompts/tech-blog-generation.md) - Comprehensive guide for writing deep technical blog articles with expert-level insights
+
+## System Design on AWS
+
+- [1. System Design Trade-offs and Guidelines](pages/aws/System%20Design%20on%20AWS/md/1.%20System%20Design%20Trade-offs%20and%20Guidelines.md)
+- [2. Storage Types and Relational Stores](pages/aws/System%20Design%20on%20AWS/md/2.%20Storage%20Types%20and%20Relational%20Stores.md)
+- [3. Nonrelational Stores](pages/aws/System%20Design%20on%20AWS/md/3.%20Nonrelational%20Stores.md)
+- [4. Caching Policies and Strategies](pages/aws/System%20Design%20on%20AWS/md/4.%20Caching%20Policies%20and%20Strategies.md)
+- [5. Load Balancing Approaches and Techniques](pages/aws/System%20Design%20on%20AWS/md/5.%20Load%20Balancing%20Approaches%20and%20Techniques.md)
+- [6. Communication Networks and Protocols](pages/aws/System%20Design%20on%20AWS/md/6.%20Communication%20Networks%20and%20Protocols.md)
+- [7. Containerization, Orchestration, and Deployments](pages/aws/System%20Design%20on%20AWS/md/7.%20Containerization%2C%20Orchestration%2C%20and%20Deployments.md)
+- [8. Architectural Designs and Patterns](pages/aws/System%20Design%20on%20AWS/md/8.%20Architectural%20Designs%20and%20Patterns.md)
+- [9. AWS Network Services](pages/aws/System%20Design%20on%20AWS/md/9.%20AWS%20Network%20Services.md)
+- [10. AWS Storage Services](pages/aws/System%20Design%20on%20AWS/md/10.%20AWS%20Storage%20Services.md)
+- [11. AWS Compute Services](pages/aws/System%20Design%20on%20AWS/md/11.%20AWS%20Compute%20Services.md)
+- [12. AWS Messaging, Orchestration, Monitoring, and Access Management Services](pages/aws/System%20Design%20on%20AWS/md/12.%20AWS%20Messaging%2C%20Orchestration%2C%20Monitoring%2C%20and%20Access%20Management%20Services.md)
+- [13. Big Data, Analytics, and Machine Learning Services](pages/aws/System%20Design%20on%20AWS/md/13.%20Big%20Data%2C%20Analytics%2C%20and%20Machine%20Learning%20Services.md)
+- [14. Designing a URL Shortener Service](pages/aws/System%20Design%20on%20AWS/md/14.%20Designing%20a%20URL%20Shortener%20Service.md)
+- [15. Designing a Web Crawler and Search Engine](pages/aws/System%20Design%20on%20AWS/md/15.%20Designing%20a%20Web%20Crawler%20and%20Search%20Engine.md)
+- [16. Designing a Social Network and Newsfeed System](pages/aws/System%20Design%20on%20AWS/md/16.%20Designing%20a%20Social%20Network%20and%20Newsfeed%20System.md)
+- [17. Designing an Online Game Leaderboard](pages/aws/System%20Design%20on%20AWS/md/17.%20Designing%20an%20Online%20Game%20Leaderboard.md)
+- [18. Designing a Hotel Reservation System](pages/aws/System%20Design%20on%20AWS/md/18.%20Designing%20a%20Hotel%20Reservation%20System.md)
+- [19. Designing a Chat Application](pages/aws/System%20Design%20on%20AWS/md/19.%20Designing%20a%20Chat%20Application.md)
+- [20. Designing a Video-Processing Pipeline for a Streaming Service](pages/aws/System%20Design%20on%20AWS/md/20.%20Designing%20a%20Video-Processing%20Pipeline%20for%20a%20Streaming%20Service.md)
+- [21. Designing an Online Stock-Trading Platform](pages/aws/System%20Design%20on%20AWS/md/21.%20Designing%20an%20Online%20Stock-Trading%20Platform.md)
+
+## Security and Microservice Architecture on AWS
+
+- [Preface](pages/aws/Security%20and%20Microservice%20Architecture%20on%20AWS/md/Preface.md)
+- [1. Introduction to Cloud Microservices](pages/aws/Security%20and%20Microservice%20Architecture%20on%20AWS/md/1.%20Introduction%20to%20Cloud%20Microservices.md)
+- [3. Foundations of Encryption](pages/aws/Security%20and%20Microservice%20Architecture%20on%20AWS/md/3.%20Foundations%20of%20Encryption.md)
+- [4. Security at Rest](pages/aws/Security%20and%20Microservice%20Architecture%20on%20AWS/md/4.%20Security%20at%20Rest.md)
+- [5. Networking Security](pages/aws/Security%20and%20Microservice%20Architecture%20on%20AWS/md/5.%20Networking%20Security.md)
+- [6. Public-Facing Services](pages/aws/Security%20and%20Microservice%20Architecture%20on%20AWS/md/6.%20Public-Facing%20Services.md)
+- [7. Security in Transit](pages/aws/Security%20and%20Microservice%20Architecture%20on%20AWS/md/7.%20Security%20in%20Transit.md)
+- [8. Security Design for Organizational Complexity](pages/aws/Security%20and%20Microservice%20Architecture%20on%20AWS/md/8.%20Security%20Design%20for%20Organizational%20Complexity.md)
+- [9. Monitoring and Incident Response](pages/aws/Security%20and%20Microservice%20Architecture%20on%20AWS/md/9.%20Monitoring%20and%20Incident%20Response.md)
+
+## AWS Cookbook
+
+- [Foreword](pages/aws/AWS%20Cookbook/md/Foreword.md)
+- [Preface](pages/aws/AWS%20Cookbook/md/Preface.md)
+- [1. Security](pages/aws/AWS%20Cookbook/md/1.%20Security.md)
+- [2. Networking](pages/aws/AWS%20Cookbook/md/2.%20Networking.md)
+- [3. Storage](pages/aws/AWS%20Cookbook/md/3.%20Storage.md)
+- [4. Databases](pages/aws/AWS%20Cookbook/md/4.%20Databases.md)
+- [5. Serverless](pages/aws/AWS%20Cookbook/md/5.%20Serverless.md)
+- [6. Containers](pages/aws/AWS%20Cookbook/md/6.%20Containers.md)
+- [7. Big Data](pages/aws/AWS%20Cookbook/md/7.%20Big%20Data.md)
+- [8. AI/ML](pages/aws/AWS%20Cookbook/md/8.%20AI_ML.md)
+
+
+https://toddy-prompphrat-vault.phray-zhang.workers.dev/#/
