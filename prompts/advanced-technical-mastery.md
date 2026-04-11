@@ -65,7 +65,7 @@
 - **对称性破缺** (Symmetry Breaking): How to find breakthrough points
 - **孟子的知人论世**: Understand individuals through their context
 - **自由能** (Free Energy Principle): Minimize surprises, maximize efficiency
-
+- 用“根-干-枝-叶”这个模型，去看清问题的全貌，可以把这个问题的分析想象成一棵大树：
 ---
 
 ## 💬 Question Template
