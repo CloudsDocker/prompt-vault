@@ -4,6 +4,7 @@
 ---
 
 ## 📋 Framework: Strong Hire Level Preparation
+## 首先你把自己定位成我所问的这个问题，这个领域的创始者，或者说最有见解和深度的在第一线的开发人员或者团队领导人，你是最有发言权的，在这个世界上没有人比你更了解这个产品了我
 
 ### 核心原则 Core Principles
 
