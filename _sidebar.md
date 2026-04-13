@@ -1,13 +1,14 @@
 - [Home](/)
 - **Prompts**
   - [Advanced Technical Mastery](prompts/advanced-technical-mastery.md)
+  - [AI Agent](prompts/ai-agent.md)
   - [AWS](prompts/aws.md)
   - [Code Review](prompts/code-review.md)
   - [Deep Dive Skill to Learn](prompts/deep-dive-skill-to-learn.md)
   - [Learn for Interview](prompts/learn-for-interview.md)
   - [General](prompts/general.md)
   - [MQ SF Uni](prompts/mq-sf-uni.md)
-  - [Open Claw](prompts/open_claw.md)
+  - [Open Claw](prompts/open_claw.md)  
   - [Tech Blog Generation](prompts/tech-blog-generation.md)
 - **System Design on AWS**
   - [1. System Design Trade-offs and Guidelines](pages/aws/System%20Design%20on%20AWS/md/1.%20System%20Design%20Trade-offs%20and%20Guidelines.md) · [html](pages/aws/System%20Design%20on%20AWS/html/1.%20System%20Design%20Trade-offs%20and%20Guidelines%20_%20System%20Design%20on%20AWS.html ':ignore')
