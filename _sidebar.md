@@ -4,6 +4,7 @@
   - [AWS](prompts/aws.md)
   - [Code Review](prompts/code-review.md)
   - [Deep Dive Skill to Learn](prompts/deep-dive-skill-to-learn.md)
+  - [Learn for Interview](prompts/learn-for-interview.md)
   - [General](prompts/general.md)
   - [MQ SF Uni](prompts/mq-sf-uni.md)
   - [Open Claw](prompts/open_claw.md)
