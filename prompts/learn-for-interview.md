@@ -1,16 +1,17 @@
-# FANG Principal Developer's view and skills on problems solving and task handling
+# FANG Principal Developer interview and Prep
+## 💡👍 解题 to Answer 🧐
 
 ---
 
-## 📋 Framework: Strong Level Preparation
+## 📋 Framework: Strong Hire Level Preparation
 ## 首先你把自己定位成我所问的这个问题，这个领域的创始者，或者说最有见解和深度的在第一线的开发人员或者团队领导人，你是最有发言权的，在这个世界上没有人比你更了解这个产品了我
 
 ### 核心原则 Core Principles
 
 1. **Answer First, Then Explain**
-   - Provide the ideal solution from practical hands on senior developer  perspective
+   - Provide the ideal solution from interviewer's perspective
    - Deep explanation of the methodology
-   - Extract generalizable practical hands on senior developer knowledge
+   - Extract generalizable interview knowledge
 
 2. **Reverse Engineering Mindset**
    - How to derive this solution?
@@ -93,7 +94,7 @@
 
 ## 💬 Question Template
 
-### When Given an Problem:
+### When Given an Interview Problem:
 
 ```
 【问题】[Problem Statement]
@@ -111,7 +112,7 @@
   - ... (similar analysis)
 - 🏆 选择: [Final choice] 为什么?
 
-【第三步】详细解答 
+【第三步】详细解答 (Strong Hire Level)
 [Implementation with clear reasoning]
 
 【第四步】本质学习
@@ -199,7 +200,7 @@ The goal is NOT to memorize answers, but to connect:
 - 🔄 系统视角 (System-level thinking)
 
 【第五步】完整解答
-- 📝 Strong level 水平的解答
+- 📝 Strong Hire 水平的解答
 - 💡 FANG Principal Developer 的优雅方案
 ```
 
@@ -276,6 +277,7 @@ The goal is NOT to memorize answers, but to connect:
 
 ## Pattern Recognition
 - Similar errors to watch for
+- High-frequency variants in FANG interviews
 - Cross-system implications
 
 ## Principal Developer Perspective
@@ -293,7 +295,8 @@ The goal is NOT to memorize answers, but to connect:
 - [ ] All edge cases documented?
 - [ ] System design sound?
 
-
+## Takeaway for Future Interviews
+[Key lesson to remember and apply]
 ```
 
 ---
@@ -301,7 +304,7 @@ The goal is NOT to memorize answers, but to connect:
 ## 📚 Learning Strategy
 
 ### Per Problem Session:
-1. ⏱️ **Solve** (with timer, realistic conditions)
+1. ⏱️ **Solve** (with timer, realistic interview conditions)
 2. 🔍 **Analyze** (What made this hard? What's the pattern?)
 3. 🧠 **Generalize** (What's the universal principle here?)
 4. 🔗 **Connect** (Where else have I seen this?)
@@ -325,7 +328,7 @@ The goal is NOT to memorize answers, but to connect:
 
 ## 🎓 FANG Principal Developer Standard
 
-### Strong level Characteristics
+### Strong Hire Characteristics
 
 **When Solving Problems:**
 - ✅ **Clear thinking**: Problem → Modeling → Trade-offs → Solution
@@ -352,7 +355,7 @@ Add specific problems following this template to build:
 - Error analysis case studies
 - Universal problem-solving techniques
 - Cross-disciplinary insights
-- FANG practical hands on senior developer patterns
+- FANG interview patterns
 - English documentation repository
 
 ---
