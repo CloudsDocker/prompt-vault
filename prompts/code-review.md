@@ -1,5 +1,10 @@
-# Code Review Prompts
+# Code related
 
+## Fix bug till work
+```
+遇到下面的问题,请检查 这个是什么原因,不要自己瞎编,要去确保查找官方的正确方案和文档.
+不要只是给我方案,让我去试. 你要自己修复,自己重启并确定可以登陆了,如果 有问题自己试图去修复再测试
+```
 ## General Code Review
 
 ```
@@ -23,3 +28,5 @@ Keep feedback concise and actionable.
 ```
 Summarize this PR in 3 bullet points: what changed, why, and any risks.
 ```
+
+
