@@ -91,26 +91,6 @@
 *   **框架设定（重大框架、易处理框架、神秘事件框架）** [20, 21]
 ---
 
-## 💬 Question Template
-
-### When Given an Problem:
-
-```
-【问题】[Problem Statement]
-
-【第一步】问题建模
-- 澄清：[What exactly is being asked?]
-- 约束：[Constraints & edge cases]
-- 直觉：[Draw/visualize]
-
-【第二步】解法选择 with Trade-offs
-- 方案A: [Approach 1] 
-  - ✅ Pros: [Time/Space/Simplicity benefits]
-  - ❌ Cons: [Trade-offs]
-- 方案B: [Approach 2]
-  - ... (similar analysis)
-- 🏆 选择: [Final choice] 为什么?
-
 【第三步】详细解答 
 [Implementation with clear reasoning]
 
@@ -168,50 +148,9 @@ The goal is NOT to memorize answers, but to connect:
 
 ---
 
-## ❌ Troubleshoot Errors 错误分析
-
-### 分析框架 Analysis Framework
-
-当遇到代码错误时，深层分析而不是表面修复：
-
-```bash
-【输入】代码片段 + 错误信息
-
-【第一步】错误定位与根因分析
-- 💥 哪里错误了? (Which line? Which logic?)
-- 🔍 为什么会有这个错误? (Root cause analysis)
-- 📊 错误的分类? (Syntax/Logic/Design/Performance?)
-
-【第二步】避免与通用技术
-- 🛡️ 如何今后可以避免这类错误?
-- 🔧 有什么方法或者通用的技术可以避免?
-- ⚡ 面试时快速准确地作为 Principal Developer 提供解决方案
-
-【第三步】内化与训练
-- 📚 如何把这次教训内化? (训练计划)
-- 🔗 还有没有其他高频的可能的错误在这个代码块?
-- 🧠 我必须知道什么? (Top Principal Developer 标准)
-
-【第四步】视角与优化
-- 🎨 直觉图解 (Intuitive visualization)
-- 📍 信息单向性 (Information Directionality)
-- 🧹 冗余消除 (Eliminate Redundant Checks)
-- 🔄 系统视角 (System-level thinking)
-
-【第五步】完整解答
-- 📝 Strong level 水平的解答
-- 💡 FANG Principal Developer 的优雅方案
 ```
 
-### 错误分类矩阵
 
-| 错误类型 | 特征 | 面试启示 | Principal Developer 标准 |
-|---------|------|--------|----------------------|
-| **Syntax Error** | 代码无法编译/解释 | 快速发现，容易修复 | 不应该出现在面试代码中 |
-| **Logic Error** | 代码运行但结果错误 | 反映算法理解深度 | 详尽分析根因，系统性防止 |
-| **Design Error** | 架构/扩展性问题 | Principal Developer 核心评估点 | 系统设计、可维护性思维 |
-| **Performance Error** | 超时/内存溢出 | 优化能力与权衡思维 | Trade-off分析，扩展性考虑 |
-| **Edge Case Error** | 特殊输入处理不当 | 严谨思维与完整性 | 系统化corner case处理 |
 
 ### 根因分析流程
 
@@ -239,7 +178,7 @@ The goal is NOT to memorize answers, but to connect:
 - **🔄 State Transitions**: 完整性验证
 - **📊 Data Consistency**: 单一事实源原则
 
-### 面试中的信号价值
+### 信号价值
 
 当你这样分析错误时，展示：
 - ✅ **Root Cause Thinking**: 不止于表面，深入本质
@@ -250,51 +189,6 @@ The goal is NOT to memorize answers, but to connect:
 
 ---
 
-## 📝 错误分析文档生成模板
-
-### Error Analysis Report Template
-
-```markdown
-## Problem Statement
-[Clear description of the error and its context]
-
-## Root Cause Analysis
-[Deep analysis: Why did this happen?]
-- Primary cause
-- Secondary factors
-- System-level implications
-
-## Error Classification
-[Category: Syntax/Logic/Design/Performance/Edge Case]
-
-## Prevention Strategies
-1. **Code Review Checklist** - What to look for
-2. **Testing Strategy** - Test cases to catch this
-3. **Design Principles** - Architectural prevention
-4. **Tools & Automation** - Static analysis, linters
-5. **Team Culture** - Shared responsibility
-
-## Pattern Recognition
-- Similar errors to watch for
-- Cross-system implications
-
-## Principal Developer Perspective
-- System-level thinking: How does this scale?
-- Trade-offs: What are we optimizing? What are we accepting?
-- Information Architecture: Information flow clarity
-- Maintainability: Can juniors understand and modify this?
-
-## Quick Reference Checklist
-- [ ] All boundary conditions verified?
-- [ ] State transitions validated?
-- [ ] Resource lifecycle properly managed?
-- [ ] Information properly encapsulated?
-- [ ] Redundant checks eliminated?
-- [ ] All edge cases documented?
-- [ ] System design sound?
-
-
-```
 
 ---
 
@@ -371,3 +265,9 @@ Add specific problems following this template to build:
 - Build patterns, not just solutions
 - Connect disciplines, not just memorize techniques
 - lastly , give your answer in simplified Chinese 
+
+# Regarding presnetation format and skills
+assume you are expert and taltent instucutror, tell me those pods below , use vivid explain to make student really love to hear your explain and wish to listren more. 
+
+reply in simplieid chinese
+ 
