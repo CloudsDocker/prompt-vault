@@ -5,7 +5,7 @@
   - [AWS](prompts/aws.md)
   - [Airflow V3 SME](prompts/airflow-v3-sme.md)
   - [Azure AKS SME](prompts/azure-aks-sme.md)
-  - [Code Review](prompts/code-review.md)
+  - [Code](prompts/coding.md)
   - [Deep Dive Skill to Learn](prompts/deep-dive-skill-to-learn.md)
   - [Learn for Interview](prompts/learn-for-interview.md)
   - [General](prompts/general.md)
